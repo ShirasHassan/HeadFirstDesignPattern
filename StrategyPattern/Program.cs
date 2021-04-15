@@ -8,7 +8,6 @@ namespace StrategyPattern
         private static void Main()
         {
             MiniDuckSimulator();
-
             Console.ReadKey();
 
         }

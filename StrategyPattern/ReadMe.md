@@ -15,8 +15,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## UML diagrams
 
-```mermaid
-graph TD 
+```mermaid graph TD
 B["fa:fa-twitter IStrategy"] 
 C["fa:fa-ban ConcreteStrategy1 or Algorithm1"]
 D["fa:fa-ban ConcreteStrategy2 or Algorithm2"]
